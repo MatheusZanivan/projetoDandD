@@ -17,6 +17,7 @@ namespace DandD
             Espada = false;
             Cajado = false;
             Arco = false;
+
         }
 
         public Itens(Guerreiro guerreiro)
